@@ -1,0 +1,42 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+}
+.text-color{
+    color:orange;
+}
+#first-paragraph{
+    font-size: 50px;
+    font-weight: 700;
+}
+.first{
+    display:flex;
+    margin-bottom: 5%;
+}
+.half-width{
+    width: 50%;
+    padding: 4%;
+}
+.link-button{
+    text-decoration: none;
+    color:white;
+    padding: 15px 40px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 20px;
+}
+.image-width{
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+}
+#div-margin{
+    margin-top: 10%;
+}
+.bg-image{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.footer-line{
+    text-align: center;
+}
