@@ -5,13 +5,15 @@ body{
 .text-color{
     color:orange;
 }
-#first-paragraph{
+#heading-paragraph{
     font-size: 50px;
     font-weight: 700;
 }
 .seciotn-item{
     display:flex;
     margin-bottom: 5%;
+    margin-left: 2%;
+   
 }
 .half-width{
     width: 50%;
@@ -30,39 +32,43 @@ body{
 h1{
     font-size: 40px;
 }
-#div-margin{
-    margin-top: 10%;
+#my-receipe{
+    margin-top: 5%;
+    text-align: center;
 }
 .bg-image{
     background-image: url(images/Frame\ 57.jpg);
     background-repeat: no-repeat;
     margin: 0;
 }
+
+.receipe-width{
+    width: 100%;
+    padding: 2%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 15px;
+    border-radius: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top:5%;
+}
 .media-part{
-    width: 90%;
-    box-shadow: 5px 2px 5px 5px gray;
-    border-radius: 20px;
+    width: 92.5%;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 15px;
+    border-radius: 10px;
     margin: 5%;
-    
 }
 .social-media{
-    padding: 2% 10%;
-    margin-left: 2%;
-    margin-right: 2%;
+    padding: 2% 8%;
+        
+}
+#text-position{
+    text-align: center;
 }
 .footer-line{
     text-align: center;
+    margin-top: 5%;
     padding-top: 15px;
     padding-bottom: 90px;
     color: rgb(155, 150, 150);
     background-color: rgb(31, 30, 30);
-}
-.one-third-width{
-    width: 100%;
-    padding: 2%;
-    box-shadow: 10px 10px 20px gray;
-    border-radius: 20px;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top:5%;
 }
